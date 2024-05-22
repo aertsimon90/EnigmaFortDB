@@ -22,4 +22,4 @@ This project is licensed under the **Anti-Abuse License**. The Anti-Abuse Licens
 EnigmaFortDB challenges hackers with its robust security features and sophisticated encryption techniques. With its multi-layered defense mechanisms, it stands as a formidable barrier against unauthorized access and data breaches. Rest assured, your data is in safe hands with EnigmaFortDB.
 
 ## How to use? (User Guide)
-[Click This!](https://github.com/aertsimon90/EnigmaFortDB/HOWTOUSE.md)
+[Click This!](https://github.com/aertsimon90/EnigmaFortDB/blob/main/HOWTOUSE.md)
