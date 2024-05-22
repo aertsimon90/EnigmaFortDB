@@ -64,6 +64,9 @@ with open("database.txt", "r") as file:
     print("Database loaded successfully!")
 ```
 
+### Note: If you want more fast save and load for your database. use ```database.downloadfast()``` and ```database.uploadfast(base)```
+### Note 2: Fast save and load feature, It bypasses base64 encoding, so it creates weaker recording data. But don't worry, this is just an optimized method, it bypasses the precautions of reading data directly, but still all your data is encrypted, so encrypted data cannot be read.
+
 ## Password Rules
 
 - Your password must be at least 16 characters long.
